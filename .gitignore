@@ -1,0 +1,8 @@
+# Veri dosyaları Google Drive'da tutulur
+*.parquet
+*.csv.gz
+reports/
+.ipynb_checkpoints/
+__pycache__/
+.env
+*.pdf
