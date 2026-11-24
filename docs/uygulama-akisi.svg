@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1320" height="900" viewBox="0 0 1320 900" font-family="'Segoe UI', Inter, 'Helvetica Neue', Arial, sans-serif">
+<defs>
+<filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#10301F" flood-opacity="0.22"/></filter>
+<filter id="soft" x="-10%" y="-10%" width="120%" height="120%"><feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#10301F" flood-opacity="0.08"/></filter>
+<filter id="blur"><feGaussianBlur stdDeviation="7"/></filter>
+<linearGradient id="cam" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2C3A33"/><stop offset="1" stop-color="#121A16"/></linearGradient>
+<linearGradient id="hero" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FDEFD6"/><stop offset="1" stop-color="#F5D29B"/></linearGradient>
+<linearGradient id="bgGrad" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F1F4EC"/><stop offset="1" stop-color="#E6ECE2"/></linearGradient>
+</defs>
+<rect x="0" y="0" width="1320" height="900" rx="0" fill="url(#bgGrad)" />
+<circle cx="1180" cy="120" r="220" fill="#DCE8D6" opacity="0.6"/>
+<circle cx="120" cy="820" r="200" fill="#E9E3D2" opacity="0.6"/>
+<text x="70" y="60" font-size="30" font-weight="800" fill="#17352A" text-anchor="start" >Akıllı Gıda Etiketi</text>
+<text x="70" y="88" font-size="15" font-weight="500" fill="#5E6E66" text-anchor="start" >Hedeflenen uygulama akışı · konsept tasarım</text>
+<rect x="70" y="120" width="300" height="640" rx="46" fill="#15181C" filter="url(#shadow)"/>
+<clipPath id="s1"><rect x="79" y="129" width="282" height="622" rx="37"/></clipPath>
+<g clip-path="url(#s1)">
+<rect x="79" y="129" width="282" height="622" rx="0" fill="url(#cam)" />
+<g filter="url(#blur)" opacity="0.55">
+<rect x="69" y="279" width="38" height="120" rx="6" fill="#C0392B" />
+<rect x="89" y="429" width="34" height="90" rx="6" fill="#F4D35E" />
+<rect x="113" y="293" width="38" height="120" rx="6" fill="#E2B33C" />
+<rect x="129" y="439" width="34" height="90" rx="6" fill="#4F9D69" />
+<rect x="157" y="307" width="38" height="120" rx="6" fill="#2E86AB" />
+<rect x="169" y="429" width="34" height="90" rx="6" fill="#B23A48" />
+<rect x="201" y="279" width="38" height="120" rx="6" fill="#7FB069" />
+<rect x="209" y="439" width="34" height="90" rx="6" fill="#3D5A80" />
+<rect x="245" y="293" width="38" height="120" rx="6" fill="#D96C3A" />
+<rect x="249" y="429" width="34" height="90" rx="6" fill="#F4D35E" />
+<rect x="289" y="307" width="38" height="120" rx="6" fill="#8E5BA8" />
+<rect x="289" y="439" width="34" height="90" rx="6" fill="#4F9D69" />
+<rect x="333" y="279" width="38" height="120" rx="6" fill="#F0E2C0" />
+<rect x="329" y="429" width="34" height="90" rx="6" fill="#B23A48" />
+</g>
+<text x="107" y="159" font-size="12" font-weight="600" fill="#fff" text-anchor="start" >09:41</text>
+<rect x="293" y="154" width="3" height="5" rx="1" fill="#fff" />
+<rect x="298" y="152" width="3" height="7" rx="1" fill="#fff" />
+<rect x="303" y="150" width="3" height="9" rx="1" fill="#fff" />
+<rect x="308" y="148" width="3" height="11" rx="1" fill="#fff" />
+<rect x="319" y="149" width="20" height="10" rx="3" fill="none" stroke="#fff" stroke-width="1.3"/>
+<rect x="321" y="151" width="14" height="6" rx="1.5" fill="#fff" />
+<circle cx="113" cy="195" r="16" fill="rgba(255,255,255,0.16)" stroke="none"/>
+<text x="113" y="201" font-size="18" font-weight="500" fill="#fff" text-anchor="middle" >‹</text>
+<circle cx="327" cy="195" r="16" fill="rgba(255,255,255,0.16)" stroke="none"/>
+<text x="327" y="201" font-size="18" font-weight="500" fill="#fff" text-anchor="middle" >×</text>
+<text x="220" y="200" font-size="15" font-weight="700" fill="#fff" text-anchor="middle" >Ürün Tara</text>
+<rect x="95" y="227" width="250" height="34" rx="17" fill="rgba(255,255,255,0.14)" />
+<rect x="98" y="230" width="80" height="28" rx="14" fill="#fff" />
+<text x="138" y="249" font-size="12" font-weight="700" fill="#17352A" text-anchor="middle" >Barkod</text>
+<text x="221" y="249" font-size="12" font-weight="500" fill="#E8EFEA" text-anchor="middle" >Ürün adı</text>
+<text x="304" y="249" font-size="12" font-weight="500" fill="#E8EFEA" text-anchor="middle" >Etiket foto</text>
+<rect x="137" y="329" width="166" height="90" rx="8" fill="#fff" />
+<rect x="149" y="339" width="2.5" height="58" rx="0" fill="#111" />
+<rect x="153.0" y="339" width="3.5" height="58" rx="0" fill="#111" />
+<rect x="159.5" y="339" width="1.5" height="58" rx="0" fill="#111" />
+<rect x="162.5" y="339" width="1.5" height="58" rx="0" fill="#111" />
+<rect x="166.0" y="339" width="1.5" height="58" rx="0" fill="#111" />
+<rect x="170.5" y="339" width="1.5" height="58" rx="0" fill="#111" />
+<rect x="173.5" y="339" width="1.5" height="58" rx="0" fill="#111" />
+<rect x="177.0" y="339" width="3.5" height="58" rx="0" fill="#111" />
+<rect x="182.0" y="339" width="1.5" height="58" rx="0" fill="#111" />
+<rect x="185.0" y="339" width="3.5" height="58" rx="0" fill="#111" />
+<rect x="190.0" y="339" width="1.5" height="58" rx="0" fill="#111" />
+<rect x="193.0" y="339" width="1.5" height="58" rx="0" fill="#111" />
+<rect x="197.5" y="339" width="3.5" height="58" rx="0" fill="#111" />
+<rect x="202.5" y="339" width="1.5" height="58" rx="0" fill="#111" />
+<rect x="205.5" y="339" width="1.5" height="58" rx="0" fill="#111" />
+<rect x="209.0" y="339" width="3.5" height="58" rx="0" fill="#111" />
+<rect x="214.0" y="339" width="1.5" height="58" rx="0" fill="#111" />
+<rect x="218.5" y="339" width="2.5" height="58" rx="0" fill="#111" />
+<rect x="224.0" y="339" width="1.5" height="58" rx="0" fill="#111" />
+<rect x="227.0" y="339" width="1.5" height="58" rx="0" fill="#111" />
+<rect x="230.5" y="339" width="1.5" height="58" rx="0" fill="#111" />
+<rect x="235.0" y="339" width="1.5" height="58" rx="0" fill="#111" />
+<rect x="239.5" y="339" width="1.5" height="58" rx="0" fill="#111" />
+<rect x="244.0" y="339" width="1.5" height="58" rx="0" fill="#111" />
+<rect x="247.5" y="339" width="3.5" height="58" rx="0" fill="#111" />
+<rect x="253.0" y="339" width="3.5" height="58" rx="0" fill="#111" />
+<rect x="259.5" y="339" width="3.5" height="58" rx="0" fill="#111" />
+<rect x="265.0" y="339" width="2.5" height="58" rx="0" fill="#111" />
+<rect x="269.0" y="339" width="1.5" height="58" rx="0" fill="#111" />
+<rect x="273.5" y="339" width="1.5" height="58" rx="0" fill="#111" />
+<rect x="276.5" y="339" width="2.5" height="58" rx="0" fill="#111" />
+<rect x="282.0" y="339" width="3.5" height="58" rx="0" fill="#111" />
+<rect x="287.5" y="339" width="3.5" height="58" rx="0" fill="#111" />
+<text x="220.0" y="411" font-size="10.5" font-weight="600" fill="#111" text-anchor="middle" letter-spacing="1.5">8 691234 567895</text>
+<path d="M115 321 V299 H137" fill="none" stroke="#fff" stroke-width="4" stroke-linecap="round"/>
+<path d="M325 321 V299 H303" fill="none" stroke="#fff" stroke-width="4" stroke-linecap="round"/>
+<path d="M115 427 V449 H137" fill="none" stroke="#fff" stroke-width="4" stroke-linecap="round"/>
+<path d="M325 427 V449 H303" fill="none" stroke="#fff" stroke-width="4" stroke-linecap="round"/>
+<line x1="127" y1="371" x2="313" y2="371" stroke="#FF5A4E" stroke-width="2.5"/>
+<line x1="127" y1="371" x2="313" y2="371" stroke="#FF5A4E" stroke-width="10" opacity="0.25"/>
+<text x="220" y="481" font-size="12" font-weight="500" fill="rgba(255,255,255,0.85)" text-anchor="middle" >Barkodu çerçeveye hizala</text>
+<rect x="79" y="521" width="282" height="240" rx="28" fill="#fff" />
+<rect x="202" y="531" width="36" height="4" rx="2" fill="#D5DAD6" />
+<circle cx="106" cy="557" r="7" fill="#2E9E5B"/>
+<path d="M102.5 557 l2.5 2.5 l4.5 -5" fill="none" stroke="#fff" stroke-width="1.8" stroke-linecap="round"/>
+<text x="119" y="561" font-size="12" font-weight="700" fill="#2E9E5B" text-anchor="start" >Barkod okundu</text>
+<rect x="99" y="575" width="54" height="54" rx="14" fill="url(#hero)" />
+<g transform="translate(126,602) rotate(-12) scale(0.28)">
+<rect x="-78" y="-32" width="156" height="64" rx="10" fill="#6B3419" />
+<rect x="-78" y="-10" width="156" height="20" rx="0" fill="#C8792E" />
+<polyline points="-78,-32 -82,-24 -78,-16 -82,-8 -78,0 -82,8 -78,16 -82,24 -78,32" fill="none" stroke="#4A2410" stroke-width="2"/>
+<polyline points="78,-32 82,-24 78,-16 82,-8 78,0 82,8 78,16 82,24 78,32" fill="none" stroke="#4A2410" stroke-width="2"/>
+<text x="0" y="6" font-size="18" font-weight="800" fill="#FFF6E8" text-anchor="middle" letter-spacing="2">GOFRET</text>
+<text x="0" y="24" font-size="9.5" font-weight="600" fill="#F3D9B5" text-anchor="middle" >çikolatalı</text>
+</g>
+<text x="165" y="595" font-size="15" font-weight="700" fill="#17352A" text-anchor="start" >Çikolatalı Gofret</text>
+<text x="165" y="613" font-size="11" font-weight="500" fill="#5E6E66" text-anchor="start" >Barkod 8691234567895</text>
+<text x="165" y="629" font-size="11" font-weight="500" fill="#2E9E5B" text-anchor="start" >Open Food Facts'te bulundu</text>
+<text x="99" y="659" font-size="11" font-weight="500" fill="#5E6E66" text-anchor="start" >veya ürün adını yaz</text>
+<rect x="99" y="667" width="242" height="34" rx="17" fill="#F1F3EF" />
+<circle cx="118" cy="683" r="5.5" fill="none" stroke="#5E6E66" stroke-width="1.6"/>
+<line x1="122" y1="687" x2="126" y2="691" stroke="#5E6E66" stroke-width="1.6" stroke-linecap="round"/>
+<text x="133" y="688" font-size="12" font-weight="400" fill="#97A39C" text-anchor="start" >Ürün adı ara…</text>
+<rect x="99" y="709" width="242" height="38" rx="19" fill="#1F6F50" />
+<text x="220" y="733" font-size="13" font-weight="700" fill="#fff" text-anchor="middle" >İçeriği analiz et  →</text>
+<rect x="176" y="139" width="88" height="24" rx="12" fill="#000" />
+</g>
+<rect x="510" y="120" width="300" height="640" rx="46" fill="#15181C" filter="url(#shadow)"/>
+<clipPath id="s2"><rect x="519" y="129" width="282" height="622" rx="37"/></clipPath>
+<g clip-path="url(#s2)">
+<rect x="519" y="129" width="282" height="622" rx="0" fill="#F7F6F1" />
+<text x="547" y="159" font-size="12" font-weight="600" fill="#17352A" text-anchor="start" >09:41</text>
+<rect x="733" y="154" width="3" height="5" rx="1" fill="#17352A" />
+<rect x="738" y="152" width="3" height="7" rx="1" fill="#17352A" />
+<rect x="743" y="150" width="3" height="9" rx="1" fill="#17352A" />
+<rect x="748" y="148" width="3" height="11" rx="1" fill="#17352A" />
+<rect x="759" y="149" width="20" height="10" rx="3" fill="none" stroke="#17352A" stroke-width="1.3"/>
+<rect x="761" y="151" width="14" height="6" rx="1.5" fill="#17352A" />
+<circle cx="553" cy="195" r="16" fill="#fff" stroke="#E2E6E1"/>
+<text x="553" y="201" font-size="18" font-weight="500" fill="#17352A" text-anchor="middle" >‹</text>
+<circle cx="767" cy="195" r="16" fill="#fff" stroke="#E2E6E1"/>
+<text x="767" y="201" font-size="18" font-weight="500" fill="#17352A" text-anchor="middle" >×</text>
+<text x="660" y="200" font-size="15" font-weight="700" fill="#17352A" text-anchor="middle" >Ürün Analizi</text>
+<rect x="535" y="225" width="250" height="118" rx="22" fill="url(#hero)" />
+<clipPath id="c2"><rect x="535" y="225" width="250" height="118" rx="22"/></clipPath>
+<circle cx="755" cy="241" r="44" fill="#fff" opacity="0.25" clip-path="url(#c2)"/>
+<g transform="translate(660,284) rotate(-7) scale(0.95)">
+<rect x="-78" y="-32" width="156" height="64" rx="10" fill="#6B3419" />
+<rect x="-78" y="-10" width="156" height="20" rx="0" fill="#C8792E" />
+<polyline points="-78,-32 -82,-24 -78,-16 -82,-8 -78,0 -82,8 -78,16 -82,24 -78,32" fill="none" stroke="#4A2410" stroke-width="2"/>
+<polyline points="78,-32 82,-24 78,-16 82,-8 78,0 82,8 78,16 82,24 78,32" fill="none" stroke="#4A2410" stroke-width="2"/>
+<text x="0" y="6" font-size="18" font-weight="800" fill="#FFF6E8" text-anchor="middle" letter-spacing="2">GOFRET</text>
+<text x="0" y="24" font-size="9.5" font-weight="600" fill="#F3D9B5" text-anchor="middle" >çikolatalı</text>
+</g>
+<text x="537" y="371" font-size="19" font-weight="800" fill="#17352A" text-anchor="start" >Çikolatalı Gofret</text>
+<rect x="537" y="381" width="86.56" height="20" rx="10" fill="#E9ECE6" />
+<text x="580.28" y="395" font-size="10.5" font-weight="600" fill="#4A5952" text-anchor="middle" >Atıştırmalık</text>
+<rect x="629.56" y="381" width="92.44000000000001" height="20" rx="10" fill="#E9ECE6" />
+<text x="675.78" y="395" font-size="10.5" font-weight="600" fill="#4A5952" text-anchor="middle" >Türkiye · 869</text>
+<rect x="728.0" y="381" width="39.52" height="20" rx="10" fill="#E9ECE6" />
+<text x="747.76" y="395" font-size="10.5" font-weight="600" fill="#4A5952" text-anchor="middle" >40 g</text>
+<rect x="535" y="413" width="250" height="86" rx="18" fill="#fff" filter="url(#soft)"/>
+<text x="551" y="435" font-size="12.5" font-weight="700" fill="#17352A" text-anchor="start" >Nutri-Score tahmini</text>
+<text x="771" y="435" font-size="11" font-weight="600" fill="#5E6E66" text-anchor="end" >güven %82</text>
+<rect x="553" y="448" width="36" height="32" rx="8" fill="#038141" opacity="0.55"/>
+<text x="571" y="469" font-size="14" font-weight="700" fill="#fff" text-anchor="middle" >A</text>
+<rect x="593" y="448" width="36" height="32" rx="8" fill="#85BB2F" opacity="0.55"/>
+<text x="611" y="469" font-size="14" font-weight="700" fill="#fff" text-anchor="middle" >B</text>
+<rect x="633" y="448" width="36" height="32" rx="8" fill="#FECB02" opacity="0.55"/>
+<text x="651" y="469" font-size="14" font-weight="700" fill="#fff" text-anchor="middle" >C</text>
+<rect x="670" y="443" width="46" height="42" rx="10" fill="#EE8100" stroke="#fff" stroke-width="2" filter="url(#soft)"/>
+<text x="693" y="472" font-size="22" font-weight="800" fill="#fff" text-anchor="middle" >D</text>
+<rect x="719" y="448" width="36" height="32" rx="8" fill="#E63E11" opacity="0.55"/>
+<text x="737" y="469" font-size="14" font-weight="700" fill="#fff" text-anchor="middle" >E</text>
+<text x="660" y="495" font-size="10" font-weight="500" fill="#5E6E66" text-anchor="middle" >içindekiler metni + ambalaj görselinden</text>
+<text x="537" y="523" font-size="13" font-weight="700" fill="#17352A" text-anchor="start" >Besin değerleri · 100 g</text>
+<rect x="535" y="533" width="78" height="94" rx="16" fill="#fff" filter="url(#soft)"/>
+<circle cx="574" cy="567" r="21" fill="none" stroke="#EEF0EC" stroke-width="6"/>
+<circle cx="574" cy="567" r="21" fill="none" stroke="#E63E11" stroke-width="6" stroke-linecap="round" stroke-dasharray="112.2 131.9" transform="rotate(-90 574 567)"/>
+<text x="574" y="571.5" font-size="12" font-weight="800" fill="#17352A" text-anchor="middle" >38g</text>
+<text x="574" y="607" font-size="11" font-weight="600" fill="#17352A" text-anchor="middle" >Şeker</text>
+<text x="574" y="621" font-size="10" font-weight="700" fill="#E63E11" text-anchor="middle" >Yüksek</text>
+<rect x="621" y="533" width="78" height="94" rx="16" fill="#fff" filter="url(#soft)"/>
+<circle cx="660" cy="567" r="21" fill="none" stroke="#EEF0EC" stroke-width="6"/>
+<circle cx="660" cy="567" r="21" fill="none" stroke="#EE8100" stroke-width="6" stroke-linecap="round" stroke-dasharray="92.4 131.9" transform="rotate(-90 660 567)"/>
+<text x="660" y="571.5" font-size="12" font-weight="800" fill="#17352A" text-anchor="middle" >14g</text>
+<text x="660" y="607" font-size="11" font-weight="600" fill="#17352A" text-anchor="middle" >Doymuş yağ</text>
+<text x="660" y="621" font-size="10" font-weight="700" fill="#EE8100" text-anchor="middle" >Yüksek</text>
+<rect x="707" y="533" width="78" height="94" rx="16" fill="#fff" filter="url(#soft)"/>
+<circle cx="746" cy="567" r="21" fill="none" stroke="#EEF0EC" stroke-width="6"/>
+<circle cx="746" cy="567" r="21" fill="none" stroke="#2E9E5B" stroke-width="6" stroke-linecap="round" stroke-dasharray="19.8 131.9" transform="rotate(-90 746 567)"/>
+<text x="746" y="571.5" font-size="12" font-weight="800" fill="#17352A" text-anchor="middle" >0,3g</text>
+<text x="746" y="607" font-size="11" font-weight="600" fill="#17352A" text-anchor="middle" >Tuz</text>
+<text x="746" y="621" font-size="10" font-weight="700" fill="#2E9E5B" text-anchor="middle" >Düşük</text>
+<text x="537" y="653" font-size="13" font-weight="700" fill="#17352A" text-anchor="start" >İçindekiler</text>
+<circle cx="687" cy="649" r="4" fill="#E8833A"/>
+<text x="694" y="653" font-size="10" font-weight="600" fill="#5E6E66" text-anchor="start" >alerjen</text>
+<circle cx="741" cy="649" r="4" fill="#7B5CD6"/>
+<text x="748" y="653" font-size="10" font-weight="600" fill="#5E6E66" text-anchor="start" >katkı</text>
+<rect x="535" y="663" width="48.800000000000004" height="22" rx="11" fill="#ECEEE9" />
+<text x="559.4" y="678" font-size="11" font-weight="600" fill="#3A4842" text-anchor="middle" >şeker</text>
+<rect x="589.8" y="663" width="79.60000000000001" height="22" rx="11" fill="#FFE8D3" />
+<text x="629.5999999999999" y="678" font-size="11" font-weight="600" fill="#B4520A" text-anchor="middle" >buğday unu</text>
+<rect x="675.4" y="663" width="73.44" height="22" rx="11" fill="#ECEEE9" />
+<text x="712.12" y="678" font-size="11" font-weight="600" fill="#3A4842" text-anchor="middle" >palm yağı</text>
+<rect x="535" y="691" width="48.800000000000004" height="22" rx="11" fill="#ECEEE9" />
+<text x="559.4" y="706" font-size="11" font-weight="600" fill="#3A4842" text-anchor="middle" >kakao</text>
+<rect x="589.8" y="691" width="67.28" height="22" rx="11" fill="#FFE8D3" />
+<text x="623.4399999999999" y="706" font-size="11" font-weight="600" fill="#B4520A" text-anchor="middle" >süt tozu</text>
+<rect x="663.0799999999999" y="691" width="54.96" height="22" rx="11" fill="#FFE8D3" />
+<text x="690.56" y="706" font-size="11" font-weight="600" fill="#B4520A" text-anchor="middle" >fındık</text>
+<rect x="535" y="719" width="128.88" height="22" rx="11" fill="#ECE6FB" />
+<text x="599.44" y="734" font-size="11" font-weight="600" fill="#5B3FB0" text-anchor="middle" >E322 soya lesitini</text>
+<rect x="669.88" y="719" width="42.64" height="22" rx="11" fill="#ECE6FB" />
+<text x="691.2" y="734" font-size="11" font-weight="600" fill="#5B3FB0" text-anchor="middle" >E500</text>
+<rect x="718.52" y="719" width="48.800000000000004" height="22" rx="11" fill="#ECEEE9" />
+<text x="742.92" y="734" font-size="11" font-weight="600" fill="#3A4842" text-anchor="middle" >aroma</text>
+<rect x="616" y="139" width="88" height="24" rx="12" fill="#000" />
+</g>
+<rect x="950" y="120" width="300" height="640" rx="46" fill="#15181C" filter="url(#shadow)"/>
+<clipPath id="s3"><rect x="959" y="129" width="282" height="622" rx="37"/></clipPath>
+<g clip-path="url(#s3)">
+<rect x="959" y="129" width="282" height="622" rx="0" fill="#F7F6F1" />
+<text x="987" y="159" font-size="12" font-weight="600" fill="#17352A" text-anchor="start" >09:41</text>
+<rect x="1173" y="154" width="3" height="5" rx="1" fill="#17352A" />
+<rect x="1178" y="152" width="3" height="7" rx="1" fill="#17352A" />
+<rect x="1183" y="150" width="3" height="9" rx="1" fill="#17352A" />
+<rect x="1188" y="148" width="3" height="11" rx="1" fill="#17352A" />
+<rect x="1199" y="149" width="20" height="10" rx="3" fill="none" stroke="#17352A" stroke-width="1.3"/>
+<rect x="1201" y="151" width="14" height="6" rx="1.5" fill="#17352A" />
+<circle cx="993" cy="195" r="16" fill="#fff" stroke="#E2E6E1"/>
+<text x="993" y="201" font-size="18" font-weight="500" fill="#17352A" text-anchor="middle" >‹</text>
+<circle cx="1207" cy="195" r="16" fill="#fff" stroke="#E2E6E1"/>
+<text x="1207" y="201" font-size="18" font-weight="500" fill="#17352A" text-anchor="middle" >×</text>
+<text x="1100" y="200" font-size="15" font-weight="700" fill="#17352A" text-anchor="middle" >Sağlık Özeti</text>
+<rect x="975" y="225" width="250" height="112" rx="22" fill="#1F4D3A" />
+<clipPath id="c3"><rect x="975" y="225" width="250" height="112" rx="22"/></clipPath>
+<circle cx="1209" cy="229" r="60" fill="#2A6650" opacity="0.6" clip-path="url(#c3)"/>
+<text x="993" y="257" font-size="17" font-weight="800" fill="#fff" text-anchor="start" >Ara sıra tüketilmeli</text>
+<text x="993" y="279" font-size="11.5" font-weight="500" fill="#CFE3D8" text-anchor="start" >Şeker ve doymuş yağ</text>
+<text x="993" y="295" font-size="11.5" font-weight="500" fill="#CFE3D8" text-anchor="start" >oranı yüksek.</text>
+<rect x="993" y="307" width="150" height="20" rx="10" fill="rgba(255,255,255,0.14)" />
+<text x="1068" y="321" font-size="10.5" font-weight="600" fill="#fff" text-anchor="middle" >100 g'da ≈ 9,5 küp şeker</text>
+<rect x="1165" y="269" width="44" height="52" rx="12" fill="#EE8100" stroke="#fff" stroke-width="2"/>
+<text x="1187" y="304" font-size="26" font-weight="800" fill="#fff" text-anchor="middle" >D</text>
+<text x="977" y="363" font-size="13" font-weight="700" fill="#17352A" text-anchor="start" >Alerjenler</text>
+<text x="1223" y="363" font-size="11" font-weight="600" fill="#B4520A" text-anchor="end" >4 alerjen</text>
+<rect x="975" y="373" width="64.96000000000001" height="28" rx="14" fill="#FFE8D3" />
+<circle cx="987" cy="387" r="3.5" fill="#E8833A"/>
+<text x="996" y="391" font-size="11" font-weight="700" fill="#B4520A" text-anchor="start" >Gluten</text>
+<rect x="1045.96" y="373" width="46.480000000000004" height="28" rx="14" fill="#FFE8D3" />
+<circle cx="1057.96" cy="387" r="3.5" fill="#E8833A"/>
+<text x="1066.96" y="391" font-size="11" font-weight="700" fill="#B4520A" text-anchor="start" >Süt</text>
+<rect x="1098.44" y="373" width="52.64" height="28" rx="14" fill="#FFE8D3" />
+<circle cx="1110.44" cy="387" r="3.5" fill="#E8833A"/>
+<text x="1119.44" y="391" font-size="11" font-weight="700" fill="#B4520A" text-anchor="start" >Soya</text>
+<rect x="1157.0800000000002" y="373" width="64.96000000000001" height="28" rx="14" fill="#FFE8D3" />
+<circle cx="1169.0800000000002" cy="387" r="3.5" fill="#E8833A"/>
+<text x="1178.0800000000002" y="391" font-size="11" font-weight="700" fill="#B4520A" text-anchor="start" >Fındık</text>
+<circle cx="984" cy="417" r="7" fill="none" stroke="#5E6E66" stroke-width="1.4"/>
+<text x="984" y="421" font-size="10" font-weight="800" fill="#5E6E66" text-anchor="middle" >!</text>
+<text x="997" y="421" font-size="11" font-weight="500" fill="#5E6E66" text-anchor="start" >Eser miktarda yer fıstığı içerebilir</text>
+<text x="977" y="451" font-size="13" font-weight="700" fill="#17352A" text-anchor="start" >Katkı maddeleri</text>
+<rect x="975" y="461" width="250" height="42" rx="14" fill="#fff" filter="url(#soft)"/>
+<rect x="985" y="470" width="42" height="24" rx="8" fill="#ECE6FB" />
+<text x="1006" y="486" font-size="11" font-weight="800" fill="#5B3FB0" text-anchor="middle" >E322</text>
+<text x="1037" y="480" font-size="12" font-weight="700" fill="#17352A" text-anchor="start" >Lesitin (soya)</text>
+<text x="1037" y="495" font-size="10.5" font-weight="500" fill="#5E6E66" text-anchor="start" >Emülgatör</text>
+<rect x="1165" y="473" width="50" height="20" rx="10" fill="#E1F3E7" />
+<text x="1190" y="487" font-size="10.5" font-weight="700" fill="#2E9E5B" text-anchor="middle" >Düşük</text>
+<rect x="975" y="509" width="250" height="42" rx="14" fill="#fff" filter="url(#soft)"/>
+<rect x="985" y="518" width="42" height="24" rx="8" fill="#ECE6FB" />
+<text x="1006" y="534" font-size="11" font-weight="800" fill="#5B3FB0" text-anchor="middle" >E500</text>
+<text x="1037" y="528" font-size="12" font-weight="700" fill="#17352A" text-anchor="start" >Sodyum karbonat</text>
+<text x="1037" y="543" font-size="10.5" font-weight="500" fill="#5E6E66" text-anchor="start" >Kabartıcı</text>
+<rect x="1165" y="521" width="50" height="20" rx="10" fill="#E1F3E7" />
+<text x="1190" y="535" font-size="10.5" font-weight="700" fill="#2E9E5B" text-anchor="middle" >Düşük</text>
+<rect x="975" y="563" width="250" height="140" rx="18" fill="#fff" stroke="#DCE5DE"/>
+<path d="M993 575 q1.6 6.4 8 8 q-6.4 1.6 -8 8 q-1.6 -6.4 -8 -8 q6.4 -1.6 8 -8z" fill="#7B5CD6"/>
+<text x="1007" y="588" font-size="12.5" font-weight="700" fill="#17352A" text-anchor="start" >Sade Türkçe açıklama</text>
+<rect x="1181" y="575" width="32" height="18" rx="9" fill="#ECE6FB" />
+<text x="1197" y="588" font-size="10" font-weight="800" fill="#5B3FB0" text-anchor="middle" >YZ</text>
+<text x="989" y="613.0" font-size="11" font-weight="500" fill="#33413A" text-anchor="start" >100 gramında yaklaşık 9,5 küp şeker</text>
+<text x="989" y="628.5" font-size="11" font-weight="500" fill="#33413A" text-anchor="start" >var. Gluten, süt, soya ve fındık</text>
+<text x="989" y="644.0" font-size="11" font-weight="500" fill="#33413A" text-anchor="start" >içerir; bu alerjisi olanlar için</text>
+<text x="989" y="659.5" font-size="11" font-weight="500" fill="#33413A" text-anchor="start" >uygun değil. Katkı maddeleri düşük</text>
+<text x="989" y="675.0" font-size="11" font-weight="500" fill="#33413A" text-anchor="start" >riskli. Ara sıra atıştırmalık olarak</text>
+<text x="989" y="690.5" font-size="11" font-weight="500" fill="#33413A" text-anchor="start" >tüketilebilir.</text>
+<rect x="975" y="713" width="55.160000000000004" height="26" rx="13" fill="#FBE4E0" />
+<text x="1002.58" y="730" font-size="10.5" font-weight="700" fill="#C0392B" text-anchor="middle" >Vegan ✕</text>
+<rect x="1036.16" y="713" width="84.56" height="26" rx="13" fill="#E1F3E7" />
+<text x="1078.44" y="730" font-size="10.5" font-weight="700" fill="#2E9E5B" text-anchor="middle" >Vejetaryen ✓</text>
+<rect x="1126.72" y="713" width="78.68" height="26" rx="13" fill="#FBE4E0" />
+<text x="1166.06" y="730" font-size="10.5" font-weight="700" fill="#C0392B" text-anchor="middle" >Glutensiz ✕</text>
+<rect x="1056" y="139" width="88" height="24" rx="12" fill="#000" />
+</g>
+<path d="M378 440 C418 400, 462 400, 492 440" fill="none" stroke="#1F6F50" stroke-width="2.5" stroke-dasharray="6 6" stroke-linecap="round"/>
+<path d="M482 432 L494 441 L480 446" fill="none" stroke="#1F6F50" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M818 440 C858 400, 902 400, 932 440" fill="none" stroke="#1F6F50" stroke-width="2.5" stroke-dasharray="6 6" stroke-linecap="round"/>
+<path d="M922 432 L934 441 L920 446" fill="none" stroke="#1F6F50" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="194.96" cy="802" r="13" fill="#1F6F50"/>
+<text x="194.96" y="807" font-size="13" font-weight="800" fill="#fff" text-anchor="middle" >1</text>
+<text x="232" y="808" font-size="17" font-weight="800" fill="#17352A" text-anchor="middle" >Tara</text>
+<text x="220" y="832" font-size="12.5" font-weight="500" fill="#5E6E66" text-anchor="middle" >Barkodu okut, ürün adını yaz</text>
+<text x="220" y="850" font-size="12.5" font-weight="500" fill="#5E6E66" text-anchor="middle" >ya da etiketin fotoğrafını çek (OCR)</text>
+<circle cx="611.16" cy="802" r="13" fill="#1F6F50"/>
+<text x="611.16" y="807" font-size="13" font-weight="800" fill="#fff" text-anchor="middle" >2</text>
+<text x="672" y="808" font-size="17" font-weight="800" fill="#17352A" text-anchor="middle" >Analiz et</text>
+<text x="660" y="832" font-size="12.5" font-weight="500" fill="#5E6E66" text-anchor="middle" >Nutri-Score tahmini, besin değerleri,</text>
+<text x="660" y="850" font-size="12.5" font-weight="500" fill="#5E6E66" text-anchor="middle" >alerjen ve katkı maddesi çıkarımı</text>
+<circle cx="1065.44" cy="802" r="13" fill="#1F6F50"/>
+<text x="1065.44" y="807" font-size="13" font-weight="800" fill="#fff" text-anchor="middle" >3</text>
+<text x="1112" y="808" font-size="17" font-weight="800" fill="#17352A" text-anchor="middle" >Açıkla</text>
+<text x="1100" y="832" font-size="12.5" font-weight="500" fill="#5E6E66" text-anchor="middle" >Büyük dil modeliyle sade Türkçe</text>
+<text x="1100" y="850" font-size="12.5" font-weight="500" fill="#5E6E66" text-anchor="middle" >sağlık özeti ve uygunluk bilgisi</text>
+<text x="660.0" y="876" font-size="11.5" font-weight="500" fill="#7C8A83" text-anchor="middle" >Konsept tasarım · ürün ve değerler örnek amaçlıdır · veri kaynağı: Open Food Facts</text>
+</svg>

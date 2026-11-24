@@ -11,6 +11,18 @@ Ambalajın arkasındaki içindekiler listesi küçük puntoyla yazılır, E-kodl
 
 uçtan uca bir sistem kuruyorum. Projenin odağı Türkiye pazarındaki ürünler.
 
+## Hedeflenen uygulama (konsept)
+
+![Akıllı Gıda Etiketi uygulama akışı: Tara, Analiz et, Açıkla](docs/uygulama-akisi.svg)
+
+> Bu görsel, proje tamamlandığında ulaşmak istediğim kullanıcı deneyimini gösteren bir **konsept tasarım**. Uygulama henüz geliştirilmedi. Ürün ve değerler örnek amaçlı.
+
+| Adım | Kullanıcı ne yapıyor? | Arkada çalışan bileşen |
+|---|---|---|
+| **1. Tara** | Barkodu okutuyor, ürün adını yazıyor ya da etiketin fotoğrafını çekiyor | Open Food Facts'te arama, etiket fotoğrafından OCR ile içindekiler metni çıkarma |
+| **2. Analiz et** | Nutri-Score tahminini, besin değerlerini, alerjenleri ve katkı maddelerini görüyor | Nutri-Score sınıflandırma modeli, alerjen ve katkı maddesi çıkarımı |
+| **3. Açıkla** | Ürünün kendisi için uygun olup olmadığını sade Türkçe bir özetle öğreniyor | Büyük dil modeliyle açıklama üretme, vegan ve glutensiz uygunluk kontrolü |
+
 | | |
 |---|---|
 | **Veri** | [Open Food Facts](https://world.openfoodfacts.org/data) (~4,5 milyon ürün, ODbL lisansı) |
